@@ -1,0 +1,43 @@
+.w-c{
+  padding:0px 25px 0px 25px;
+}
+.maincontentaboutus{
+  /* border: 3px solid red; */
+  display: flex;
+    height: 87vh;
+    width: 80vw;
+    margin-top: 50px;
+    margin-left: 133px;
+    /* border: 3px solid red; */
+    margin: 22px 23px;
+}
+.head1{
+  font-size:50px ;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+
+}
+.head2{
+  font-size:30px;
+  color: green;
+  text-align: center;
+}
+.para1{
+  font-size: 20px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.line{ 
+  border: 0; 
+  height: 3px; 
+  width: 60%;
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #46b505, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+body{
+  background:url(https://img.freepik.com/free-vector/white-abstract-background_23-2148817571.jpg?size=626&ext=jpg&ga=GA1.1.34264412.1698969600&semt=ais)no-repeat;
+  background-size: cover;
+}
