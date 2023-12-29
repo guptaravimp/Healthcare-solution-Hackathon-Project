@@ -7,3 +7,6 @@ that is our solution on this problem
  # my role 
  My role in the team is to manage technical part just thats ui/ux Design 
  # Screenshot
+ Home page
+ 
+  
