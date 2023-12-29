@@ -11,5 +11,6 @@ that is our solution on this problem
  ![Screenshot (172)](https://github.com/guptaravimp/Healthcare-solution-Hackathon-Project/assets/142169363/3a775b99-92b4-4b45-bb1c-8102bed50ed2)
 ![Screenshot (173)](https://github.com/guptaravimp/Healthcare-solution-Hackathon-Project/assets/142169363/4bb0dee3-14c4-4bec-8726-e1febd6db881)
 Doctor page
-
+![Screenshot (174)](https://github.com/guptaravimp/Healthcare-solution-Hackathon-Project/assets/142169363/b97e5b98-c580-4606-ad8e-cd1eee6f71aa)
+Self curementpage 
   
